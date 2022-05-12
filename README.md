@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FrancoisVanH
-- 👀 I’m interested in dev, e-sport, F1, NBA and more!
+- 👀 I’m interested in dev, e-sport, NBA, F1.
 - 🌱 I’m currently learning to become a jr web dev.
-- 💞️ I’m looking to collaborate on ... idk 
 - 📫 How to reach me : francoisvanhaesendonck@hotmail.com
 
 <!---
