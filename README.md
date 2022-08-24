@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FrancoisVanH ![markdownmonstericon.png](https://www.codewars.com/users/FrancoisVanH/badges/micro)
-- 👀 I’m interested in dev, e-sport, NBA, F1. 
-- 🌱 I’m currently learning to become a jr web dev.
+- 👋 Hi, I’m @FrancoisVanH .
+- 👀 I’m interested in UX-UI, web-design, e-sport, NBA, F1. ![markdownmonstericon.png](https://www.codewars.com/users/FrancoisVanH/badges/micro) 
+- 🌱 I’m currently learning @ BeCode to become a Front-End and Mobile Developer. 
 - 📫 How to reach me : francoisvanhaesendonck@hotmail.com
 
 
